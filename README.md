@@ -10,10 +10,7 @@ This project implements the **K-Nearest Neighbors (KNN) classification algorithm
 
 ##  Files in This Repository
 - **KNN Classification.ipynb** → Jupyter Notebook with KNN implementation
-- **data/** → (Add dataset here if applicable)
-- **README.md** → This file
+- **data/** → (heart.csv)
+- **README.md** 
 
-##  Installation & Usage
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+
