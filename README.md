@@ -15,10 +15,10 @@ This project implements the **K-Nearest Neighbors (KNN) classification algorithm
 - **README.md** 
 
 ## Results
-Accuracy Score :- 81%
-Confusion Matrix:- array([[27,  2],
+* Accuracy Score :- 81%
+* Confusion Matrix:- array([[27,  2],
                          [ 9, 23]])
-Classification Report:-   precision    recall  f1-score   support
+* Classification Report:-   precision    recall  f1-score   support
 
            0       0.75      0.93      0.83        29
            1       0.92      0.72      0.81        32
